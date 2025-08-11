@@ -2,11 +2,11 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_ohmy90_flat_adders
+MACRO tt_um_ohmy90_adders
   CLASS BLOCK ;
-  FOREIGN tt_um_ohmy90_flat_adders ;
+  FOREIGN tt_um_ohmy90_adders ;
   ORIGIN -0.990 0.000 ;
-  SIZE 151.900 BY 225.760 ;
+  SIZE 151.720 BY 225.760 ;
   PIN clk
     DIRECTION INPUT ;
     USE SIGNAL ;
@@ -3982,7 +3982,7 @@ MACRO tt_um_ohmy90_flat_adders
         RECT 80.680 9.340 82.050 9.650 ;
         RECT 73.660 8.350 81.020 8.830 ;
         RECT 151.840 4.310 152.160 28.550 ;
-        RECT 151.150 3.190 152.890 4.310 ;
+        RECT 151.150 3.190 152.710 4.310 ;
       LAYER met2 ;
         RECT 47.150 88.730 48.530 89.220 ;
         RECT 32.315 87.935 32.725 87.940 ;
@@ -4242,7 +4242,7 @@ MACRO tt_um_ohmy90_flat_adders
         RECT 58.080 8.390 58.980 8.860 ;
         RECT 67.520 8.370 68.420 8.840 ;
         RECT 77.260 8.360 78.160 8.830 ;
-        RECT 151.150 3.190 152.890 4.310 ;
+        RECT 151.150 3.190 152.710 4.310 ;
       LAYER met3 ;
         RECT 4.070 88.610 119.355 89.680 ;
         RECT 93.995 88.600 95.065 88.610 ;
@@ -4490,15 +4490,15 @@ MACRO tt_um_ohmy90_flat_adders
         RECT 67.530 7.950 68.430 8.860 ;
         RECT 77.280 7.950 78.180 8.830 ;
         RECT 1.050 7.050 78.180 7.950 ;
-        RECT 151.150 3.190 152.890 4.310 ;
+        RECT 151.150 3.190 152.710 4.310 ;
       LAYER met4 ;
         RECT 135.550 73.940 135.850 224.760 ;
         RECT 134.780 73.020 135.870 73.940 ;
         RECT 138.310 72.550 138.610 224.760 ;
         RECT 137.560 71.680 138.650 72.550 ;
-        RECT 151.150 3.190 152.890 4.310 ;
+        RECT 151.150 3.190 152.710 4.310 ;
         RECT 151.810 1.000 152.710 3.190 ;
   END
-END tt_um_ohmy90_flat_adders
+END tt_um_ohmy90_adders
 END LIBRARY
 
