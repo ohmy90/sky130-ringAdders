@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1755018998
+timestamp 1755020041
 << nwell >>
 rect 9296 16307 10016 16628
 rect 9394 15563 9930 15884
@@ -19410,11 +19410,11 @@ transform 1 0 21616 0 1 16134
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_13
 timestamp 1755016259
-transform 1 0 20494 0 1 16132
+transform 1 0 20500 0 1 16132
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_14
 timestamp 1755016259
-transform 1 0 19618 0 1 16128
+transform 1 0 19634 0 1 16130
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_15
 timestamp 1755016259
@@ -19422,7 +19422,7 @@ transform 1 0 18864 0 1 16140
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_16
 timestamp 1755016259
-transform 1 0 17904 0 1 16138
+transform 1 0 17886 0 1 16142
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_17
 timestamp 1755016259
@@ -19430,7 +19430,7 @@ transform 1 0 17378 0 1 16140
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_18
 timestamp 1755016259
-transform 1 0 16264 0 1 16146
+transform 1 0 16246 0 1 16150
 box -38 -48 130 592
 use sky130_fd_sc_hd__tapvpwrvgnd_1  sky130_fd_sc_hd__tapvpwrvgnd_1_19
 timestamp 1755016259
