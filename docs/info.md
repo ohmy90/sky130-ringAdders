@@ -9,10 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Using a Mux, compare different 8-bit adder "ring oscillator" designs. Cout is fed into an inverter then into Cin.
-00 is a normal ring oscillator with 19 inverters (in recreation of COEN 451 lab).
-01 is a hybrid carry-lookahead adder (2x4bit), where we use the equation for C4 composed of Ps and Gs.
-10 is carry-ripple.
+Using a Mux, compare different 8-bit adder "ring oscillator" designs. Cout is fed into an inverter then into Cin. \
+00 is a normal ring oscillator with 19 inverters (in recreation of COEN 451 lab).\
+01 is a hybrid carry-lookahead adder (2x4bit), where we use the equation for C4 composed of Ps and Gs.\
+10 is carry-ripple.\
 11 is carry-select.
 
 ## How to test
