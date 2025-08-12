@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1755029384
+timestamp 1755032970
 << nwell >>
 rect 18428 33348 18749 35264
 rect 18436 31042 18757 32958
@@ -24000,8 +24000,7 @@ rect 13643 14697 13733 17497
 rect 16399 17468 16461 17478
 rect 16399 17466 16413 17468
 rect 15360 17436 15683 17458
-rect 14960 17407 15026 17436
-rect 15122 17407 15635 17436
+rect 14960 17407 15635 17436
 rect 14960 16366 14989 17407
 rect 15360 17402 15635 17407
 rect 15669 17402 15683 17436
@@ -24218,8 +24217,7 @@ rect 16400 16400 16466 16420
 rect 16400 16367 16416 16400
 rect 16224 16366 16416 16367
 rect 16452 16366 16466 16400
-rect 14960 16337 15026 16366
-rect 15122 16337 16466 16366
+rect 14960 16337 16466 16366
 rect 16496 16392 17234 16412
 rect 16496 16388 17184 16392
 rect 16496 16354 16502 16388
@@ -30156,14 +30154,6 @@ rect 800 2518 1200 5670
 rect 800 2410 936 2518
 rect 1068 2410 1200 2518
 rect 800 1000 1200 2410
-rect 3314 0 3494 200
-rect 7178 0 7358 200
-rect 11042 0 11222 200
-rect 14906 0 15086 200
-rect 18770 0 18950 200
-rect 22634 0 22814 200
-rect 26498 0 26678 200
-rect 30362 0 30542 196
 use CLA  CLA_0
 timestamp 1755018483
 transform 1 0 4568 0 1 15292
@@ -30293,91 +30283,91 @@ timestamp 1723858470
 transform -1 0 17812 0 -1 5026
 box -38 -48 1510 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_0 pdks/sky130A/libs.ref/sky130_fd_sc_hd/mag
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 6358 0 -1 3340
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_1
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 6388 0 -1 6600
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_2
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 9706 0 -1 17794
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_3
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 16336 0 1 16150
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_4
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 17104 0 1 16140
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_5
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 17978 0 1 16142
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_6
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 18592 0 1 16140
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_7
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 19360 0 1 16130
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_8
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 20234 0 1 16132
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_9
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 21356 0 1 16134
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_10
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 22124 0 1 16124
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_11
-timestamp 1755028488
+timestamp 1723858470
 transform 1 0 22998 0 1 16126
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_12
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 23283 0 -1 17660
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_13
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 22515 0 -1 17670
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_14
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 21641 0 -1 17668
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_15
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 21027 0 -1 17670
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_16
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 20259 0 -1 17680
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_17
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 19385 0 -1 17678
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_18
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 18263 0 -1 17676
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_19
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 17495 0 -1 17686
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_20
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 16621 0 -1 17684
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_1  sky130_fd_sc_hd__inv_1_21
-timestamp 1755028488
+timestamp 1723858470
 transform -1 0 15843 0 -1 17646
 box -38 -48 314 592
 use sky130_fd_sc_hd__inv_2  sky130_fd_sc_hd__inv_2_0 pdks/sky130A/libs.ref/sky130_fd_sc_hd/mag
@@ -30775,22 +30765,6 @@ flabel metal4 s 29318 44952 29378 45152 0 FreeSans 480 90 0 0 ena
 port 1 nsew signal input
 flabel metal4 s 28214 44952 28274 45152 0 FreeSans 480 90 0 0 rst_n
 port 2 nsew signal input
-flabel metal4 s 30362 0 30542 200 0 FreeSans 960 0 0 0 ua[0]
-port 3 nsew signal bidirectional
-flabel metal4 s 26498 0 26678 200 0 FreeSans 960 0 0 0 ua[1]
-port 4 nsew signal bidirectional
-flabel metal4 s 22634 0 22814 200 0 FreeSans 960 0 0 0 ua[2]
-port 5 nsew signal bidirectional
-flabel metal4 s 18770 0 18950 200 0 FreeSans 960 0 0 0 ua[3]
-port 6 nsew signal bidirectional
-flabel metal4 s 14906 0 15086 200 0 FreeSans 960 0 0 0 ua[4]
-port 7 nsew signal bidirectional
-flabel metal4 s 11042 0 11222 200 0 FreeSans 960 0 0 0 ua[5]
-port 8 nsew signal bidirectional
-flabel metal4 s 7178 0 7358 200 0 FreeSans 960 0 0 0 ua[6]
-port 9 nsew signal bidirectional
-flabel metal4 s 3314 0 3494 200 0 FreeSans 960 0 0 0 ua[7]
-port 10 nsew signal bidirectional
 flabel metal4 s 27662 44952 27722 45152 0 FreeSans 480 90 0 0 ui_in[0]
 port 11 nsew signal input
 flabel metal4 s 27110 44952 27170 45152 0 FreeSans 480 90 0 0 ui_in[1]
@@ -30875,606 +30849,6 @@ flabel metal4 200 1000 600 44152 1 FreeSans 400 0 0 0 VDPWR
 port 51 nsew power bidirectional
 flabel metal4 800 1000 1200 44152 1 FreeSans 400 0 0 0 VGND
 port 52 nsew ground bidirectional
-rlabel metal1 s 16345 17092 16621 17188 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 16345 17636 16621 17732 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 16621 17684 16621 17684 8 inv_1
-flabel metal1 s 16558 17123 16592 17157 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 16558 17667 16592 17701 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 16558 17667 16592 17701 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 16558 17123 16592 17157 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 16515 17429 16549 17463 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 16423 17429 16457 17463 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 16423 17361 16457 17395 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 17219 17094 17495 17190 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 17219 17638 17495 17734 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 17495 17686 17495 17686 8 inv_1
-flabel metal1 s 17432 17125 17466 17159 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 17432 17669 17466 17703 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 17432 17669 17466 17703 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 17432 17125 17466 17159 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 17389 17431 17423 17465 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 17297 17431 17331 17465 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 17297 17363 17331 17397 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 17987 17084 18263 17180 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 17987 17628 18263 17724 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 18263 17676 18263 17676 8 inv_1
-flabel metal1 s 18200 17115 18234 17149 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 18200 17659 18234 17693 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 18200 17659 18234 17693 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 18200 17115 18234 17149 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 18157 17421 18191 17455 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 18065 17421 18099 17455 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 18065 17353 18099 17387 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 17911 17084 18003 17180 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 17911 17628 18003 17724 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 18003 17676 18003 17676 8 tapvpwrvgnd_1
-flabel metal1 s 17931 17656 17982 17694 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 17928 17123 17981 17152 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 17133 17094 17225 17190 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 17133 17638 17225 17734 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 17225 17686 17225 17686 8 tapvpwrvgnd_1
-flabel metal1 s 17153 17666 17204 17704 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 17150 17133 17203 17162 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 16267 17092 16359 17188 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 16267 17636 16359 17732 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 16359 17684 16359 17684 8 tapvpwrvgnd_1
-flabel metal1 s 16287 17664 16338 17702 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 16284 17131 16337 17160 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 19109 17086 19385 17182 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 19109 17630 19385 17726 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 19385 17678 19385 17678 8 inv_1
-flabel metal1 s 19322 17117 19356 17151 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 19322 17661 19356 17695 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 19322 17661 19356 17695 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 19322 17117 19356 17151 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 19279 17423 19313 17457 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 19187 17423 19221 17457 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 19187 17355 19221 17389 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 19983 17088 20259 17184 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 19983 17632 20259 17728 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 20259 17680 20259 17680 8 inv_1
-flabel metal1 s 20196 17119 20230 17153 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 20196 17663 20230 17697 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 20196 17663 20230 17697 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 20196 17119 20230 17153 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 20153 17425 20187 17459 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 20061 17425 20095 17459 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 20061 17357 20095 17391 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 20751 17078 21027 17174 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 20751 17622 21027 17718 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 21027 17670 21027 17670 8 inv_1
-flabel metal1 s 20964 17109 20998 17143 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 20964 17653 20998 17687 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 20964 17653 20998 17687 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 20964 17109 20998 17143 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 20921 17415 20955 17449 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 20829 17415 20863 17449 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 20829 17347 20863 17381 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 21365 17076 21641 17172 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 21365 17620 21641 17716 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 21641 17668 21641 17668 8 inv_1
-flabel metal1 s 21578 17107 21612 17141 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 21578 17651 21612 17685 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 21578 17651 21612 17685 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 21578 17107 21612 17141 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 21535 17413 21569 17447 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 21443 17413 21477 17447 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 21443 17345 21477 17379 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 22149 17078 22241 17174 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 22149 17622 22241 17718 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 22241 17670 22241 17670 8 tapvpwrvgnd_1
-flabel metal1 s 22169 17650 22220 17688 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 22166 17117 22219 17146 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 20663 17078 20755 17174 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 20663 17622 20755 17718 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 20755 17670 20755 17670 8 tapvpwrvgnd_1
-flabel metal1 s 20683 17650 20734 17688 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 20680 17117 20733 17146 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 21641 17076 21733 17172 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 21641 17620 21733 17716 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 21733 17668 21733 17668 8 tapvpwrvgnd_1
-flabel metal1 s 21661 17648 21712 17686 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 21658 17115 21711 17144 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 19893 17088 19985 17184 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 19893 17632 19985 17728 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19985 17680 19985 17680 8 tapvpwrvgnd_1
-flabel metal1 s 19913 17660 19964 17698 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 19910 17127 19963 17156 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 19027 17086 19119 17182 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 19027 17630 19119 17726 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19119 17678 19119 17678 8 tapvpwrvgnd_1
-flabel metal1 s 19047 17658 19098 17696 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 19044 17125 19097 17154 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 22239 17078 22515 17174 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 22239 17622 22515 17718 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 22515 17670 22515 17670 8 inv_1
-flabel metal1 s 22452 17109 22486 17143 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 22452 17653 22486 17687 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 22452 17653 22486 17687 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 22452 17109 22486 17143 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 22409 17415 22443 17449 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 22317 17415 22351 17449 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 22317 17347 22351 17381 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 23007 17068 23283 17164 5 VPWR
-port 5 nsew power bidirectional abutment
-rlabel metal1 s 23007 17612 23283 17708 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel comment s 23283 17660 23283 17660 8 inv_1
-flabel metal1 s 23220 17099 23254 17133 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 23220 17643 23254 17677 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel pwell s 23220 17643 23254 17677 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel nwell s 23220 17099 23254 17133 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel locali s 23177 17405 23211 17439 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel locali s 23085 17405 23119 17439 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 23085 17337 23119 17371 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-rlabel metal1 s 23281 17068 23373 17164 5 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 23281 17612 23373 17708 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 23373 17660 23373 17660 8 tapvpwrvgnd_1
-flabel metal1 s 23301 17640 23352 17678 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 23298 17107 23351 17136 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel locali s 15645 17323 15679 17357 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 15645 17391 15679 17425 0 FreeSans 340 180 0 0 Y
-port 6 nsew signal output
-flabel locali s 15737 17391 15771 17425 0 FreeSans 340 180 0 0 A
-port 1 nsew signal input
-flabel nwell s 15780 17085 15814 17119 0 FreeSans 200 180 0 0 VPB
-port 4 nsew power bidirectional
-flabel pwell s 15780 17629 15814 17663 0 FreeSans 200 180 0 0 VNB
-port 3 nsew ground bidirectional
-flabel metal1 s 15780 17629 15814 17663 0 FreeSans 200 180 0 0 VGND
-port 2 nsew ground bidirectional abutment
-flabel metal1 s 15780 17085 15814 17119 0 FreeSans 200 180 0 0 VPWR
-port 5 nsew power bidirectional abutment
-rlabel comment s 15843 17646 15843 17646 8 inv_1
-rlabel metal1 s 15567 17598 15843 17694 5 VGND
-port 2 nsew ground bidirectional abutment
-rlabel metal1 s 15567 17054 15843 17150 5 VPWR
-port 5 nsew power bidirectional abutment
-flabel metal1 s 15498 17093 15551 17122 0 FreeSans 200 180 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 15501 17626 15552 17664 0 FreeSans 200 180 0 0 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 15573 17646 15573 17646 8 tapvpwrvgnd_1
-rlabel metal1 s 15481 17598 15573 17694 5 VGND
-port 1 nsew ground bidirectional abutment
-rlabel metal1 s 15481 17054 15573 17150 5 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 7575 22827 7609 22861 0 FreeSans 200 0 0 0 VGND
-port 3 nsew ground bidirectional abutment
-flabel metal1 s 7575 23371 7609 23405 0 FreeSans 200 0 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel locali s 9231 23148 9265 23182 0 FreeSans 400 0 0 0 Q_N
-port 8 nsew signal output
-flabel locali s 7835 23065 7869 23099 0 FreeSans 200 0 0 0 D
-port 2 nsew signal input
-flabel locali s 7575 23065 7609 23099 0 FreeSans 400 0 0 0 CLK
-port 1 nsew clock input
-flabel locali s 8936 22929 8970 22963 0 FreeSans 400 0 0 0 Q
-port 7 nsew signal output
-flabel pwell s 7575 22827 7609 22861 0 FreeSans 200 0 0 0 VNB
-port 4 nsew ground bidirectional
-flabel pwell s 7592 22844 7592 22844 0 FreeSans 200 0 0 0 VNB
-flabel nwell s 7575 23371 7609 23405 0 FreeSans 200 0 0 0 VPB
-port 5 nsew power bidirectional
-flabel nwell s 7592 23388 7592 23388 0 FreeSans 200 0 0 0 VPB
-rlabel comment s 7546 22844 7546 22844 4 dfxbp_1
-rlabel metal1 s 7546 22796 9294 22892 1 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 7546 23340 9294 23436 1 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 9316 23368 9369 23397 0 FreeSans 200 0 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 9315 22826 9366 22864 0 FreeSans 200 0 0 0 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 9294 22844 9294 22844 4 tapvpwrvgnd_1
-rlabel metal1 s 9294 22796 9386 22892 1 VGND
-port 1 nsew ground bidirectional abutment
-rlabel metal1 s 9294 23340 9386 23436 1 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 9760 23348 11508 23444 1 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 9760 22804 11508 22900 1 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 9760 22852 9760 22852 4 dfxbp_1
-flabel nwell s 9806 23396 9806 23396 0 FreeSans 200 0 0 0 VPB
-flabel nwell s 9789 23379 9823 23413 0 FreeSans 200 0 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 9806 22852 9806 22852 0 FreeSans 200 0 0 0 VNB
-flabel pwell s 9789 22835 9823 22869 0 FreeSans 200 0 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 11150 22937 11184 22971 0 FreeSans 400 0 0 0 Q
-port 7 nsew signal output
-flabel locali s 9789 23073 9823 23107 0 FreeSans 400 0 0 0 CLK
-port 1 nsew clock input
-flabel locali s 10049 23073 10083 23107 0 FreeSans 200 0 0 0 D
-port 2 nsew signal input
-flabel locali s 11445 23156 11479 23190 0 FreeSans 400 0 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 9789 23379 9823 23413 0 FreeSans 200 0 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 9789 22835 9823 22869 0 FreeSans 200 0 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 11508 23348 11600 23444 1 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 11508 22804 11600 22900 1 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 11508 22852 11508 22852 4 tapvpwrvgnd_1
-flabel metal1 s 11529 22834 11580 22872 0 FreeSans 200 0 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 11530 23376 11583 23405 0 FreeSans 200 0 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 13730 23358 13783 23387 0 FreeSans 200 0 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 13729 22816 13780 22854 0 FreeSans 200 0 0 0 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 13708 22834 13708 22834 4 tapvpwrvgnd_1
-rlabel metal1 s 13708 22786 13800 22882 1 VGND
-port 1 nsew ground bidirectional abutment
-rlabel metal1 s 13708 23330 13800 23426 1 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 11989 22817 12023 22851 0 FreeSans 200 0 0 0 VGND
-port 3 nsew ground bidirectional abutment
-flabel metal1 s 11989 23361 12023 23395 0 FreeSans 200 0 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel locali s 13645 23138 13679 23172 0 FreeSans 400 0 0 0 Q_N
-port 8 nsew signal output
-flabel locali s 12249 23055 12283 23089 0 FreeSans 200 0 0 0 D
-port 2 nsew signal input
-flabel locali s 11989 23055 12023 23089 0 FreeSans 400 0 0 0 CLK
-port 1 nsew clock input
-flabel locali s 13350 22919 13384 22953 0 FreeSans 400 0 0 0 Q
-port 7 nsew signal output
-flabel pwell s 11989 22817 12023 22851 0 FreeSans 200 0 0 0 VNB
-port 4 nsew ground bidirectional
-flabel pwell s 12006 22834 12006 22834 0 FreeSans 200 0 0 0 VNB
-flabel nwell s 11989 23361 12023 23395 0 FreeSans 200 0 0 0 VPB
-port 5 nsew power bidirectional
-flabel nwell s 12006 23378 12006 23378 0 FreeSans 200 0 0 0 VPB
-rlabel comment s 11960 22834 11960 22834 4 dfxbp_1
-rlabel metal1 s 11960 22786 13708 22882 1 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 11960 23330 13708 23426 1 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 14203 22825 14237 22859 0 FreeSans 200 0 0 0 VGND
-port 3 nsew ground bidirectional abutment
-flabel metal1 s 14203 23369 14237 23403 0 FreeSans 200 0 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel locali s 15859 23146 15893 23180 0 FreeSans 400 0 0 0 Q_N
-port 8 nsew signal output
-flabel locali s 14463 23063 14497 23097 0 FreeSans 200 0 0 0 D
-port 2 nsew signal input
-flabel locali s 14203 23063 14237 23097 0 FreeSans 400 0 0 0 CLK
-port 1 nsew clock input
-flabel locali s 15564 22927 15598 22961 0 FreeSans 400 0 0 0 Q
-port 7 nsew signal output
-flabel pwell s 14203 22825 14237 22859 0 FreeSans 200 0 0 0 VNB
-port 4 nsew ground bidirectional
-flabel pwell s 14220 22842 14220 22842 0 FreeSans 200 0 0 0 VNB
-flabel nwell s 14203 23369 14237 23403 0 FreeSans 200 0 0 0 VPB
-port 5 nsew power bidirectional
-flabel nwell s 14220 23386 14220 23386 0 FreeSans 200 0 0 0 VPB
-rlabel comment s 14174 22842 14174 22842 4 dfxbp_1
-rlabel metal1 s 14174 22794 15922 22890 1 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 14174 23338 15922 23434 1 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 15944 23366 15997 23395 0 FreeSans 200 0 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 15943 22824 15994 22862 0 FreeSans 200 0 0 0 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 15922 22842 15922 22842 4 tapvpwrvgnd_1
-rlabel metal1 s 15922 22794 16014 22890 1 VGND
-port 1 nsew ground bidirectional abutment
-rlabel metal1 s 15922 23338 16014 23434 1 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 18250 23374 18303 23403 0 FreeSans 200 0 0 0 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 18249 22832 18300 22870 0 FreeSans 200 0 0 0 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 18228 22850 18228 22850 4 tapvpwrvgnd_1
-rlabel metal1 s 18228 22802 18320 22898 1 VGND
-port 1 nsew ground bidirectional abutment
-rlabel metal1 s 18228 23346 18320 23442 1 VPWR
-port 2 nsew power bidirectional abutment
-flabel metal1 s 16509 22833 16543 22867 0 FreeSans 200 0 0 0 VGND
-port 3 nsew ground bidirectional abutment
-flabel metal1 s 16509 23377 16543 23411 0 FreeSans 200 0 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel locali s 18165 23154 18199 23188 0 FreeSans 400 0 0 0 Q_N
-port 8 nsew signal output
-flabel locali s 16769 23071 16803 23105 0 FreeSans 200 0 0 0 D
-port 2 nsew signal input
-flabel locali s 16509 23071 16543 23105 0 FreeSans 400 0 0 0 CLK
-port 1 nsew clock input
-flabel locali s 17870 22935 17904 22969 0 FreeSans 400 0 0 0 Q
-port 7 nsew signal output
-flabel pwell s 16509 22833 16543 22867 0 FreeSans 200 0 0 0 VNB
-port 4 nsew ground bidirectional
-flabel pwell s 16526 22850 16526 22850 0 FreeSans 200 0 0 0 VNB
-flabel nwell s 16509 23377 16543 23411 0 FreeSans 200 0 0 0 VPB
-port 5 nsew power bidirectional
-flabel nwell s 16526 23394 16526 23394 0 FreeSans 200 0 0 0 VPB
-rlabel comment s 16480 22850 16480 22850 4 dfxbp_1
-rlabel metal1 s 16480 22802 18228 22898 1 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 16480 23346 18228 23442 1 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18418 35134 18514 35226 7 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18962 35134 19058 35226 7 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19010 35134 19010 35134 2 tapvpwrvgnd_1
-flabel metal1 s 18990 35155 19028 35206 0 FreeSans 200 270 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 18457 35156 18486 35209 0 FreeSans 200 270 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18434 30614 18530 30706 7 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18978 30614 19074 30706 7 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19026 30614 19026 30614 2 tapvpwrvgnd_1
-flabel metal1 s 19006 30635 19044 30686 0 FreeSans 200 270 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 18473 30636 18502 30689 0 FreeSans 200 270 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18426 31080 18522 32828 7 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18970 31080 19066 32828 7 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 19018 31080 19018 31080 2 dfxbp_1
-flabel nwell s 18474 31126 18474 31126 0 FreeSans 200 270 0 0 VPB
-flabel nwell s 18457 31109 18491 31143 0 FreeSans 200 270 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 19018 31126 19018 31126 0 FreeSans 200 270 0 0 VNB
-flabel pwell s 19001 31109 19035 31143 0 FreeSans 200 270 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 18899 32470 18933 32504 0 FreeSans 400 270 0 0 Q
-port 7 nsew signal output
-flabel locali s 18763 31109 18797 31143 0 FreeSans 400 270 0 0 CLK
-port 1 nsew clock input
-flabel locali s 18763 31369 18797 31403 0 FreeSans 200 270 0 0 D
-port 2 nsew signal input
-flabel locali s 18680 32765 18714 32799 0 FreeSans 400 270 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 18457 31109 18491 31143 0 FreeSans 200 270 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 19001 31109 19035 31143 0 FreeSans 200 270 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 18426 32828 18522 32920 7 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18970 32828 19066 32920 7 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19018 32828 19018 32828 2 tapvpwrvgnd_1
-flabel metal1 s 18998 32849 19036 32900 0 FreeSans 200 270 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 18465 32850 18494 32903 0 FreeSans 200 270 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18418 33386 18514 35134 7 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18962 33386 19058 35134 7 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 19010 33386 19010 33386 2 dfxbp_1
-flabel nwell s 18466 33432 18466 33432 0 FreeSans 200 270 0 0 VPB
-flabel nwell s 18449 33415 18483 33449 0 FreeSans 200 270 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 19010 33432 19010 33432 0 FreeSans 200 270 0 0 VNB
-flabel pwell s 18993 33415 19027 33449 0 FreeSans 200 270 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 18891 34776 18925 34810 0 FreeSans 400 270 0 0 Q
-port 7 nsew signal output
-flabel locali s 18755 33415 18789 33449 0 FreeSans 400 270 0 0 CLK
-port 1 nsew clock input
-flabel locali s 18755 33675 18789 33709 0 FreeSans 200 270 0 0 D
-port 2 nsew signal input
-flabel locali s 18672 35071 18706 35105 0 FreeSans 400 270 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 18449 33415 18483 33449 0 FreeSans 200 270 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 18993 33415 19027 33449 0 FreeSans 200 270 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 18416 28414 18512 28506 7 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18960 28414 19056 28506 7 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19008 28414 19008 28414 2 tapvpwrvgnd_1
-flabel metal1 s 18988 28435 19026 28486 0 FreeSans 200 270 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 18455 28436 18484 28489 0 FreeSans 200 270 0 0 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18416 26666 18512 28414 7 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18960 26666 19056 28414 7 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 19008 26666 19008 26666 2 dfxbp_1
-flabel nwell s 18464 26712 18464 26712 0 FreeSans 200 270 0 0 VPB
-flabel nwell s 18447 26695 18481 26729 0 FreeSans 200 270 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 19008 26712 19008 26712 0 FreeSans 200 270 0 0 VNB
-flabel pwell s 18991 26695 19025 26729 0 FreeSans 200 270 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 18889 28056 18923 28090 0 FreeSans 400 270 0 0 Q
-port 7 nsew signal output
-flabel locali s 18753 26695 18787 26729 0 FreeSans 400 270 0 0 CLK
-port 1 nsew clock input
-flabel locali s 18753 26955 18787 26989 0 FreeSans 200 270 0 0 D
-port 2 nsew signal input
-flabel locali s 18670 28351 18704 28385 0 FreeSans 400 270 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 18447 26695 18481 26729 0 FreeSans 200 270 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 18991 26695 19025 26729 0 FreeSans 200 270 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 18434 28866 18530 30614 7 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18978 28866 19074 30614 7 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 19026 28866 19026 28866 2 dfxbp_1
-flabel nwell s 18482 28912 18482 28912 0 FreeSans 200 270 0 0 VPB
-flabel nwell s 18465 28895 18499 28929 0 FreeSans 200 270 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 19026 28912 19026 28912 0 FreeSans 200 270 0 0 VNB
-flabel pwell s 19009 28895 19043 28929 0 FreeSans 200 270 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 18907 30256 18941 30290 0 FreeSans 400 270 0 0 Q
-port 7 nsew signal output
-flabel locali s 18771 28895 18805 28929 0 FreeSans 400 270 0 0 CLK
-port 1 nsew clock input
-flabel locali s 18771 29155 18805 29189 0 FreeSans 200 270 0 0 D
-port 2 nsew signal input
-flabel locali s 18688 30551 18722 30585 0 FreeSans 400 270 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 18465 28895 18499 28929 0 FreeSans 200 270 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 19009 28895 19043 28929 0 FreeSans 200 270 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 18424 24452 18520 26200 7 VPWR
-port 6 nsew power bidirectional abutment
-rlabel metal1 s 18968 24452 19064 26200 7 VGND
-port 3 nsew ground bidirectional abutment
-rlabel comment s 19016 24452 19016 24452 2 dfxbp_1
-flabel nwell s 18472 24498 18472 24498 0 FreeSans 200 270 0 0 VPB
-flabel nwell s 18455 24481 18489 24515 0 FreeSans 200 270 0 0 VPB
-port 5 nsew power bidirectional
-flabel pwell s 19016 24498 19016 24498 0 FreeSans 200 270 0 0 VNB
-flabel pwell s 18999 24481 19033 24515 0 FreeSans 200 270 0 0 VNB
-port 4 nsew ground bidirectional
-flabel locali s 18897 25842 18931 25876 0 FreeSans 400 270 0 0 Q
-port 7 nsew signal output
-flabel locali s 18761 24481 18795 24515 0 FreeSans 400 270 0 0 CLK
-port 1 nsew clock input
-flabel locali s 18761 24741 18795 24775 0 FreeSans 200 270 0 0 D
-port 2 nsew signal input
-flabel locali s 18678 26137 18712 26171 0 FreeSans 400 270 0 0 Q_N
-port 8 nsew signal output
-flabel metal1 s 18455 24481 18489 24515 0 FreeSans 200 270 0 0 VPWR
-port 6 nsew power bidirectional abutment
-flabel metal1 s 18999 24481 19033 24515 0 FreeSans 200 270 0 0 VGND
-port 3 nsew ground bidirectional abutment
-rlabel metal1 s 18424 26200 18520 26292 7 VPWR
-port 2 nsew power bidirectional abutment
-rlabel metal1 s 18968 26200 19064 26292 7 VGND
-port 1 nsew ground bidirectional abutment
-rlabel comment s 19016 26200 19016 26200 2 tapvpwrvgnd_1
-flabel metal1 s 18996 26221 19034 26272 0 FreeSans 200 270 0 0 VGND
-port 1 nsew ground bidirectional abutment
-flabel metal1 s 18463 26222 18492 26275 0 FreeSans 200 270 0 0 VPWR
-port 2 nsew power bidirectional abutment
 << properties >>
 string FIXED_BBOX 0 0 32200 45152
 << end >>
