@@ -13,8 +13,8 @@ Using a Mux, compare different adder "ring oscillator" designs
 
 ## How to test
 
-Use digital pins to get output at analog pin
+Use digital pins to get output at digital pin
 
 ## External hardware
-NONE
+Measuring equipment
 
