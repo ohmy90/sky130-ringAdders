@@ -13,7 +13,7 @@ Xring clk ena rst_n ua[0] ua[1] ua[2] ua[3] ua[4] ua[5]
 
 VB VDPWR 0 DC 1.8
 VA VGND 0 DC 0
-VY ui_in[1] 0 DC 0
+VY ui_in[1] 0 DC 1.8
 VI ui_in[0] 0 DC 1.8
 .tran 500ps 12ns
 .control
